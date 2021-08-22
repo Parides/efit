@@ -7,6 +7,8 @@
 ## 📰 Description
 E-FIT is a health and fitness concept website, that focuses on providing the user with gym excercises for each muscle group, as well as useful information. The website includes multiple excercises for each muscle including video and text tutorials for each. Additionally, the website includes efficient pre-made workout plans for beginners, intermediate and advanced lifters. 
 
+## ▶ Demo
+
 <div align="center">
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5WF4Ih36oJg/0.jpg)](https://www.youtube.com/watch?v=5WF4Ih36oJg)
